@@ -14,6 +14,11 @@ npm run serve
 ```
 npm run build
 ```
+### start a JSON server
+```
+json-server --watch src/data/db.json --port 4000
+
+```
 
 ### Run your tests
 ```
