@@ -32,3 +32,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+from matt-faraldo@outlook.com myuser@123
